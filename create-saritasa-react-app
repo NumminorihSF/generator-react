@@ -13,7 +13,7 @@ const env = yeoman.createEnv(null, { cwd: path.join(process.cwd(), name) });
 const deps = [
   'reselect',
   'redux',
-  'immutable@4.0.0-rc.10',
+  'immutable@4.0.0-rc.12',
   'redux-immutable',
   'redux-saga',
   'react-redux',
